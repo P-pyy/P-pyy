@@ -1,73 +1,144 @@
+<div align="left">
+
+## 🔴 `> ABOUT ME`
+
+</div>
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  👩‍💻  ABOUT ME                                               │
+│                                                              │
+│  I'm Chrestine, a Computer Engineering graduate and         │
+│  Full Stack Developer who enjoys building modern,           │
+│  interactive, and functional web applications.              │
+│                                                              │
+│  I enjoy working on both frontend and backend development,  │
+│  turning ideas into complete working systems and            │
+│  continuously learning new technologies along the way.      │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+### `> PROFILE`
+
+```text
+Name       : Chrestine Hiangan
+Username   : P-pyy
+Role       : Full Stack Developer
+Education  : BS Computer Engineering
+Focus      : Web Development & Software Engineering
+Status     : Open to Opportunities
+```
+
+---
+
+## 🔴 `> TECH STACK`
+
+<div align="left">
+
+### `// FRONTEND`
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
+
+<br><br>
+
+### `// BACKEND`
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="VB.NET" />
+
+<br><br>
+
+### `// DATABASE & SERVICES`
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase" />
+
+<br><br>
+
+### `// TOOLS`
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" />
+
+</div>
+
+---
+
+## 🔴 `> GITHUB ANALYTICS`
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=CHRESTINE%20HIANGAN&fontSize=42&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descSize=20&descAlign=50&descAlignY=62&color=0:000000,35:0A0000,65:240000,85:4A0000,100:000000&stroke=DC2626&strokeWidth=2&animation=fadeIn" alt="CHRESTINE HIANGAN - FULL STACK DEVELOPER" />
+<img src="https://raw.githubusercontent.com/P-pyy/P-pyy/stats-output/stats.svg" height="170" alt="GitHub Stats" />
+
+<img src="https://raw.githubusercontent.com/P-pyy/P-pyy/languages-output/languages.svg" height="170" alt="Top Languages" />
 
 </div>
 
+---
 
-###
+## 🔴 `> CONTRIBUTION MATRIX`
 
-<p data-importer="text" align="left">Name       : Chrestine Hiangan<br>Username   : P-pyy<br>Role       : Full Stack Developer<br>Education  : BS Computer Engineering<br>Focus      : Web Development & Software Engineering<br>Status     : Open to Opportunities</p>
+<div align="center">
 
-###
-
-<p data-importer="text" align="left"></p>
-
-###
-
-<p data-importer="text" align="left"></p>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/P-pyy/P-pyy/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/P-pyy/P-pyy/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<picture data-importer="pacman">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/P-pyy/P-pyy/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/P-pyy/P-pyy/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/P-pyy/P-pyy/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/P-pyy/P-pyy/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
 </picture>
 
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=P-pyy.P-pyy&"  />
 </div>
 
-###
+---
 
-<div data-importer="socials" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
+## 🔴 `> CONTACT`
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:4A0000,35:240000,65:0A0000,100:000000&stroke=DC2626&strokeWidth=2" alt="Footer" />
+<a href="https://hiangan-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-DC2626?style=for-the-badge&labelColor=050505" />
+</a>
+
+<a href="https://www.linkedin.com/in/chrestine-hiangan/">
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-DC2626?style=for-the-badge&labelColor=050505" />
+</a>
+
+<a href="https://github.com/P-pyy">
+<img src="https://img.shields.io/badge/⌘%20GITHUB-DC2626?style=for-the-badge&labelColor=050505" />
+</a>
+
+<br><br>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=P-pyy.P-pyy&left_color=050505&right_color=DC2626&left_text=PROFILE%20VIEWS" />
 
 </div>
-
-
-###
