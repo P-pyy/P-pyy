@@ -34,7 +34,6 @@ Status:    Open to opportunities
 ```
 
 <br/>
-
 ## 🔴 `> TECH STACK`
 
 <div align="center">
@@ -74,7 +73,6 @@ Status:    Open to opportunities
 </div>
 
 <br/>
-
 ## 🔴 `> FEATURED PROJECT`
 
 <div align="center">
@@ -103,7 +101,6 @@ A web-based and kiosk-integrated registrar inquiry system designed to improve ac
 </div>
 
 <br/>
-
 ## 🔴 `> GITHUB ANALYTICS`
 
 <div align="center">
@@ -119,7 +116,6 @@ A web-based and kiosk-integrated registrar inquiry system designed to improve ac
 </div>
 
 <br/>
-
 ## 🔴 `> CONTRIBUTION MATRIX`
 
 <div align="center">
@@ -133,7 +129,6 @@ A web-based and kiosk-integrated registrar inquiry system designed to improve ac
 </div>
 
 <br/>
-
 ## 🔴 `> CONTACT`
 
 <div align="center">
