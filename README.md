@@ -22,9 +22,7 @@
 
 ## 🔴 `> ABOUT ME`
 
-```bash
-P-pyy@dev-machine:~$ whoami --info
-```
+
 
 ```yaml
 Name:      Chrestine Hiangan
@@ -35,9 +33,7 @@ Focus:     Web Development & Software Engineering
 Status:    Open to opportunities
 ```
 
-```bash
-P-pyy@dev-machine:~$ _
-```
+
 
 I enjoy building **modern, interactive, and functional web applications** and working across both frontend and backend development.
 
