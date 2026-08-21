@@ -106,38 +106,11 @@ A web-based and kiosk-integrated registrar inquiry system designed to improve ac
 
 <div align="center">
 
-### `REIGI`
-
-**Registrar's Electronic Inquiry and General Information**
-
-A web-based and kiosk-integrated registrar inquiry system designed to improve access to registrar information.
-
-<br/>
-
-<img src="https://img.shields.io/badge/HTML5-050505?style=flat-square&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-050505?style=flat-square&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/JavaScript-050505?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Node.js-050505?style=flat-square&logo=node.js&logoColor=339933" />
-<img src="https://img.shields.io/badge/Express.js-050505?style=flat-square&logo=express&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Supabase-050505?style=flat-square&logo=supabase&logoColor=3ECF8E" />
-
-<br/><br/>
-
-<a href="https://reigi.vercel.app">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050505" alt="View REIGI"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ### `PERSONAL PORTFOLIO`
 
 **Chrestine Hiangan — Full Stack Developer**
 
-A modern personal portfolio showcasing my skills, projects, development experience, and background as a Computer Engineering graduate and Full Stack Developer.
+A modern red and black HUD personal portfolio showcasing my projects and skills as a Full Stack Developer.
 
 <br/>
 
