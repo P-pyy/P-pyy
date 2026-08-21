@@ -33,12 +33,6 @@ Focus:     Web Development & Software Engineering
 Status:    Open to opportunities
 ```
 
-
-
-I enjoy building **modern, interactive, and functional web applications** and working across both frontend and backend development.
-
-I'm interested in turning ideas into complete working systems while continuously improving my development skills and learning new technologies.
-
 <br/>
 
 ## 🔴 `> TECH STACK`
