@@ -83,7 +83,7 @@ Status:    Open to opportunities
 
 **Chrestine Hiangan — Full Stack Developer**
 
-A modern red and black HUD personal portfolio showcasing my projects and skills as a Full Stack Developer.
+A modern red and black HUD portfolio showcasing my projects and skills as a Full Stack Developer.
 
 <br/>
 
