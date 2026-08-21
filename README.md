@@ -175,13 +175,4 @@ A web-based and kiosk-integrated registrar inquiry system designed to improve ac
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,35:4A0000,65:120000,100:000000&height=120&section=footer&stroke=DC2626&strokeWidth=1" width="100%" alt="Footer"/>
 
 <br/>
-
-```text
-[ SYSTEM STATUS :: ONLINE ]
-[ USER :: P-PYY ]
-[ ACCESS :: GRANTED ]
-
-BUILD • BREAK • LEARN • REPEAT
-```
-
 </div>
