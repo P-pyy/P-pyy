@@ -1,6 +1,9 @@
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=CHRESTINE%20HIANGAN&fontSize=42&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descSize=20&descAlign=50&descAlignY=62&color=0:000000,35:0A0000,65:240000,85:4A0000,100:000000&stroke=DC2626&strokeWidth=2&animation=fadeIn" alt="CHRESTINE HIANGAN - FULL STACK DEVELOPER" />
+
 </div>
+
 
 ###
 
@@ -60,8 +63,11 @@
 
 ###
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:4A0000,35:240000,65:0A0000,100:000000&stroke=DC2626&strokeWidth=2" alt="Footer" />
+
 </div>
+
 
 ###
