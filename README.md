@@ -104,22 +104,6 @@ A web-based and kiosk-integrated registrar inquiry system designed to improve ac
 
 <br/>
 
-## 🔴 `> GITHUB ANALYTICS`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/P-pyy/P-pyy/stats-output/stats.svg" height="170" alt="GitHub Stats"/>
-
-<img src="https://raw.githubusercontent.com/P-pyy/P-pyy/languages-output/languages.svg" height="170" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=P-pyy&theme=dark&hide_border=true&background=050505&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="70%" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
 ## 🔴 `> CONTRIBUTION MATRIX`
 
 <div align="center">
@@ -131,6 +115,8 @@ A web-based and kiosk-integrated registrar inquiry system designed to improve ac
 </picture>
 
 <img src="https://streak-stats.demolab.com?user=P-pyy&theme=dark&hide_border=true&background=050505&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="70%" alt="GitHub Streak"/>
+
+<img src="https://raw.githubusercontent.com/P-pyy/P-pyy/languages-output/languages.svg" height="170" alt="Top Languages"/>
 
 
 </div>
