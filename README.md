@@ -130,6 +130,9 @@ A web-based and kiosk-integrated registrar inquiry system designed to improve ac
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/P-pyy/P-pyy/pacman-output/pacman-contribution-graph-dark.svg?game=pacman" width="100%"/>
 </picture>
 
+<img src="https://streak-stats.demolab.com?user=P-pyy&theme=dark&hide_border=true&background=050505&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="70%" alt="GitHub Streak"/>
+
+
 </div>
 
 <br/>
