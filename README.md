@@ -89,9 +89,9 @@ A web-based and kiosk-integrated registrar inquiry system designed to improve ac
 
 <img src="https://img.shields.io/badge/HTML5-050505?style=flat-square&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/CSS3-050505?style=flat-square&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Node.js-050505?style=for-the-badge&logo=node.js&logoColor=339933" />
-<img src="https://img.shields.io/badge/Express.js-050505?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Javascript-050505?style=flat-square&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/Node.js-050505?style=flat-square&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/Express.js-050505?style=flat-square&logo=css3&logoColor=1572B6" />
 <img src="https://img.shields.io/badge/Supabase-050505?style=flat-square&logo=supabase&logoColor=3ECF8E" />
 
 <br/><br/>
